@@ -1,6 +1,5 @@
-# Bash-README-Script
-
 #!/bin/bash
+
 echo "Updating system programs..."
 sudo apt-get update 
 echo "Upgrading system programs..."
