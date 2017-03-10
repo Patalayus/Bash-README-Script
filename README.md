@@ -1,4 +1,4 @@
-#see raw script
+#See raw script
 #!/bin/bash
 
 echo "Updating system programs..."
